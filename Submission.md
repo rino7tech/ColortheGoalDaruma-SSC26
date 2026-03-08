@@ -9,7 +9,9 @@
 
 ### Upload three screenshots of your app playground that best represent the user experience as .png or .jpg files. Do not upload handwritten notes, sketches, or outlines.
 
-<!-- Add screenshots here -->
+<img width="1373" height="954" alt="IMG_0213" src="https://github.com/user-attachments/assets/e499c26c-6995-48f2-9670-102ddd464dab" />
+<img width="1373" height="954" alt="IMG_0211" src="https://github.com/user-attachments/assets/2c78e159-c845-4e49-b350-c17e53f87c75" />
+<img width="1373" height="954" alt="IMG_0209" src="https://github.com/user-attachments/assets/ec420730-f921-4826-9999-2457ceb5a9bd" />
 
 ### Which software should we use to run your app playground?
 `Swift Playgrounds 4.6 or later`
@@ -117,3 +119,5 @@ I am deeply fascinated by the possibilities of technology. Among them, the iPhon
 Each year, I closely follow the latest technologies announced at Apple's WWDC, and every time I feel excited by the future they open up. However, rather than remaining someone who only receives that inspiration, I began to want to actively use these technologies myself and become someone who creates innovative products.
 
 Through this aspiration, I decided to apply for the Swift Student Challenge 2026. Starting from this challenge, I hope to continue developing apps that stay close to people's lives and bring new value and color to everyday experiences.
+
+
