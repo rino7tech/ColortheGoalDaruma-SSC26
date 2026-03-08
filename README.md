@@ -5,7 +5,11 @@
 
 ### Name of your app playground
 
-`Color the Goal Daruma`
+`ColortheGoalDaruma`
+
+### Upload three screenshots of your app playground that best represent the user experience as .png or .jpg files. Do not upload handwritten notes, sketches, or outlines.
+
+<!-- Add screenshots here -->
 
 ### Which software should we use to run your app playground?
 `Swift Playgrounds 4.6 or later`
