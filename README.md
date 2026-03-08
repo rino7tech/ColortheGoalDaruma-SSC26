@@ -5,7 +5,7 @@
 
 ### Name of your app playground
 
-`Daruma`
+`ColortheGoalDaruma`
 
 ### Upload three screenshots of your app playground that best represent the user experience as .png or .jpg files. Do not upload handwritten notes, sketches, or outlines.
 
